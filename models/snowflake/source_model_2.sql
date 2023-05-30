@@ -1,0 +1,1 @@
+select * from {{ source('sourcename','new_table')}}

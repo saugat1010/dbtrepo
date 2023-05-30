@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: sourcename  #required
+    description: 'testingpurpose'
+    database: DBTDATABASE
+    schema: DBT_SDHAKAL
+    tables:
+      - name: first_table
+      - name: new_table
+
+
+

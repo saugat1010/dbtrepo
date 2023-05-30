@@ -1,0 +1,1 @@
+select count(*) as totalrows from first_table
